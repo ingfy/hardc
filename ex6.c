@@ -2,12 +2,12 @@
 
 int main(int argc, char *argv[])
 {
-  int distance = 100;
+  int distance = 034;
   float power = 2.345f;
   double super_power = 56789.4532;
   char initial = 'Y';
   char first_name[] = "Yngve";
-  char last_name[] = "Svalestuen";
+  char last_name[] = "";
 
   printf("You are %d km away.\n", distance);
   printf("You have %f levels of power.\n", power);
